@@ -1,2 +1,2 @@
 # TopoFP
-Code and data sharing for my paper /textit{An efficient approach to natural field parcel extraction using deep learning with controllable topological relationships}
+Code and data sharing for my paper /textit{Topology-Aware Field Parcel Delineation: Bridging Deep Semantic Features and Geometric Constraints}
